@@ -1,0 +1,2 @@
+Part 1: The Basics of Git
+* Git is used for version control
